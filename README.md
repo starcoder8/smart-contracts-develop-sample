@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Genesis Smart Contracts for Sidra Chain
 
 These are the genesis smart contracts designed specifically for the Sidra Chain.
@@ -68,3 +69,6 @@ This contract handles the receipt of waqf (charitable donations) and ensures the
 ## Notes
 
 - As these are genesis contracts for the Sidra Chain, they are designed for direct initialization in the genesis block.
+=======
+# smart-contracts-develop-sample
+>>>>>>> b6b077672182e74f9ed9022f222ca57f4076b25c
